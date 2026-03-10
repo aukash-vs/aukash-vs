@@ -4,12 +4,17 @@ Aspiring Data Analyst passionate about analyzing data and creating insights.
 
 ## Skills
 
-* Python (Pandas, Matplotlib)
 * SQL
+* Python (Pandas, Matplotlib)
 * Microsoft Excel
 * Data Visualization
 
 ## Projects
 
-* Coffee Sales Analysis (Python)
-* Excel Sales Dashboard
+## Projects
+
+- Coffee Sales Analysis (Python)  
+  https://github.com/aukash-vs/coffee-sales-analysis
+
+- Excel Sales Dashboard  
+  https://github.com/aukash-vs/excel-sales-dashboard
