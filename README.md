@@ -5,7 +5,7 @@ Aspiring Data Analyst passionate about analyzing data and creating insights.
 ## Skills
 
 * SQL
-* Python (Pandas, Matplotlib)
+* Python (Numpy, Pandas, Matplotlib)
 * Microsoft Excel
 * Data Visualization
 
