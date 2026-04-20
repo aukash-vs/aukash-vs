@@ -1,6 +1,6 @@
 # Hi, I'm Aukash 👋
 
-Aspiring Data Analyst passionate about analyzing data and creating insights.
+Aspiring Data Analyst skilled in SQL, Python, Excel, and Power BI, focused on transforming data into actionable business insights.
 
 ## Skills
 
@@ -12,7 +12,6 @@ Aspiring Data Analyst passionate about analyzing data and creating insights.
 
 ## Projects
 
-## Projects
 
 - Coffee Sales Analysis (Python)  
   https://github.com/aukash-vs/coffee-sales-analysis
