@@ -7,6 +7,7 @@ Aspiring Data Analyst passionate about analyzing data and creating insights.
 * SQL
 * Python (Numpy, Pandas, Matplotlib)
 * Microsoft Excel
+* Power Bi
 * Data Visualization
 
 ## Projects
@@ -18,3 +19,6 @@ Aspiring Data Analyst passionate about analyzing data and creating insights.
 
 - Excel Sales Dashboard  
   https://github.com/aukash-vs/excel-sales-dashboard
+  
+- Power Bi Dashboard
+  https://github.com/aukash-vs/parrys-corner-sales-dashboard-powerbi
